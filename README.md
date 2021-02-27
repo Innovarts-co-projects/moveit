@@ -12,8 +12,6 @@ O projeto foi desenvolvido durante a Next Level Week um evento oferecido pela Ro
 
 Este é um projeto educacional de codigo aberto, assim qualquer um pode desenvolver e implementar as funcionalidades de sua vontate.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/StwGabriel/moveit-next)
-
 ## Como obter o codigo em sua maquina
 
 Para realizar os processos a seguir você ira precisar utilizar o *Node* e o *yarn* de preferecia as versões mais atuais LTS
