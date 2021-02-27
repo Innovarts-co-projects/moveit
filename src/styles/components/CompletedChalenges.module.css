@@ -1,0 +1,22 @@
+.CompletedChalengesContainer {
+
+   display        : flex;
+   align-items    : center;
+   justify-content: space-between;
+
+   margin        : 2rem;
+   padding-bottom: 1rem;
+   border-bottom : 1px solid #d7d8da;
+
+   font-weight: 500;
+}
+
+.CompletedChalengesContainer span:first-child {
+
+   font-size: 1.25rem;
+}
+
+.CompletedChalengesContainer span:last-child {
+
+   font-size: 1.5rem;
+}

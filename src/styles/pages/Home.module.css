@@ -1,0 +1,68 @@
+.container {
+
+   display       : flex;
+   flex-direction: column;
+   max-width     : 1080px;
+   padding       : clamp(.5rem, 5vw, 2rem);
+   margin        : 0 auto;
+}
+
+.container section {
+
+   flex                 : 1;
+   display              : grid;
+   grid-template-columns: 1fr 1fr;
+   gap                  : 6rem;
+   align-content        : center;
+}
+
+.startAnim {
+
+   animation-name     : StartAnim;
+   animation-duration : .5s;
+   animation-delay    : .3s;
+   animation-fill-mode: backwards;
+
+   background     : var(--blue);
+   display        : flex;
+   align-items    : center;
+   justify-content: center;
+
+   position: absolute;
+   top     : 0;
+   left    : 0;
+   height  : 100vh;
+
+   width    : 100vw;
+   transform: translateY(-100vh);
+
+   z-index: 1000;
+}
+
+.startAnim img {
+
+   width: 25vw
+}
+
+@keyframes StartAnim {
+   from {
+
+      transform: translateY(0);
+   }
+
+   to {
+
+      transform: translateY(-100vh);
+   }
+}
+
+@media only screen and (max-width:800px) {
+
+   .container section {
+
+      grid-template-columns: 1fr;
+      grid-template-rows   : 1fr 1fr;
+      gap                  : 2rem;
+      padding-bottom       : 4rem;
+   }
+}

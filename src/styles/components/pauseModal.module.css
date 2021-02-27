@@ -1,0 +1,67 @@
+.modalOverlay {
+
+   background: #0005;
+
+   display        : flex;
+   align-items    : center;
+   justify-content: center;
+
+   position: fixed;
+   top     : 0;
+   right   : 0;
+   bottom  : 0;
+   left    : 0;
+
+}
+
+.modalContent {
+
+   background   : var(--white);
+   border-radius: 1rem;
+   color        : var(--title);
+   font-size    : 1.4rem;
+
+
+   display        : flex;
+   flex-direction : column;
+   align-items    : center;
+   justify-content: center;
+
+
+   text-align: center;
+
+   width  : clamp(10rem, 90vw, 30rem);
+   height : 20rem;
+   padding: 2rem;
+
+   position: relative;
+}
+
+.modalContent header {
+
+   display        : flex;
+   align-items    : center;
+   justify-content: center;
+
+   font-size  : 2rem;
+   font-weight: 600;
+   margin-bottom: 2rem;
+}
+
+.clock {
+
+   width      : clamp(2rem, 40vw, 4rem);
+   margin-left: 1rem;
+
+}
+
+.modalContent button {
+
+   background: transparent;
+   border    : 0;
+   font-size : 0;
+
+   position: absolute;
+   top     : 0.35rem;
+   right   : 0.25rem;
+}
