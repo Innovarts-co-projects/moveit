@@ -3,7 +3,7 @@
 veja o app em ação:
 https://moveit-next-stwgabriel.vercel.app/
 
-![MoveIt Preview](GitHub/MoveIt-preview.gif)
+![MoveIt Preview](./public/GitHub/MoveIt-preview.gif)
 
 ## Descrição
 O MoveIt é um app de pomodoro que promove produtividade e saúde ao usuario ao implementar um sistema de desafios para o intervalo entre um ciclo de produtividade e outro fazendo com que o usuario possa relaxar durante os intervalos com atividades que o auxiliam.
