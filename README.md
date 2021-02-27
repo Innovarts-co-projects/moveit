@@ -12,8 +12,6 @@ O projeto foi desenvolvido durante a Next Level Week um evento oferecido pela Ro
 
 Este é um projeto educacional de codigo aberto, assim qualquer um pode desenvolver e implementar as funcionalidades de sua vontate.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/StwGabriel/moveit-next)
-
 ## Como obter o codigo em sua maquina
 
 Para realizar os processos a seguir você ira precisar utilizar o *Node* e o *yarn* de preferecia as versões mais atuais LTS
@@ -57,6 +55,6 @@ agora é so utilizar ```yarn dev``` para iniciar o servidor na sua maquina.
 
 <a href='https://www.instagram.com/stw_gabriel/'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></img> </a>
 <a href='https://www.linkedin.com/in/stwgabriel/'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></img> </a>
-<a href='https://github.com/StwGabrie'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img> </a>
+<a href='https://github.com/StwGabriel'><img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'></img> </a>
 <a href='https://www.youtube.com/channel/UCQdFFC-ZOxK7hfsdq5qQ--g'><img src='https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white'></img> </a>
 <a href='mailto:gabbrielsilvactt@gmail.com?Subject=Vim%20Pelo%20GitHub%20/%20I%20came%20through%20GitHub'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></img> </a>
