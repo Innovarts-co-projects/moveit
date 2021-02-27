@@ -1,6 +1,6 @@
 
 import { ChallengeBox } from '../components/ChallengeBox';
-import { ChallengesContext, ChallengesProvider } from "../contexts/ChallengesContext";
+import {  ChallengesProvider } from "../contexts/ChallengesContext";
 import { CompletedChalenges } from "../components/CompletedChalenges";
 import { CountdownProvider } from "../contexts/CountdownContexts";
 import { Countdown } from "../components/Countdown";
