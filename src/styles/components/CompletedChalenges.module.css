@@ -4,8 +4,8 @@
    align-items    : center;
    justify-content: space-between;
 
-   margin        : 2rem;
-   padding-bottom: 1rem;
+   margin        : clamp(1rem, 2vw, 3rem);
+   padding-bottom: clamp(.5rem, 1vw, 3rem);
    border-bottom : 1px solid #d7d8da;
 
    font-weight: 500;

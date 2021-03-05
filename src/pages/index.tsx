@@ -44,16 +44,16 @@ export default function Home(props: HomeProps) {
         </div>
 
         <CountdownProvider>
-          <section id='Down'>
+          <section className={styles.gridbox} id='Down'>
 
-            <div>
+            <div className={styles.gridBox1}>
 
               <Profile />
               <CompletedChalenges />
               <Countdown />
             </div>
 
-            <div>
+            <div className={styles.gridBox2}>
 
               <ChallengeBox />
             </div>
