@@ -22,11 +22,6 @@
    flex-direction: column;
 
    padding: 1rem;
-
-   animation-name     : Down;
-   animation-duration : .3s;
-   animation-delay    : .2s;
-   animation-fill-mode: backwards;
 }
 
 .challengesActive header {
@@ -141,19 +136,4 @@
 
    width : clamp(4.5rem, 10vw, 5rem);
    margin: clamp(1.8rem, 5vw, 4rem);
-}
-
-@keyframes Down {
-
-   from {
-
-      opacity  : 0;
-      transform: translateY(-50px)
-   }
-
-   to {
-
-      opacity  : 1;
-      transform: translateY(0)
-   }
 }
