@@ -43,7 +43,7 @@ Você pode utilizar o ```git clone``` no terminal **git bash** ou um terminal de
 
 EX: ```git clone https://github.com/StwGabriel/moveit-next.git```
 
-*após clonar entre na pasta do projeto
+*após clonar entre na pasta do projeto e verifique se o processo foi realizado*
 
 Após isso pode usar o ```npm install``` para instalar as dependencias
 
