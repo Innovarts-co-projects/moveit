@@ -1,7 +1,7 @@
 # MoveIt
 
 veja o app em ação:
-https://moveit-next-stwgabriel.vercel.app/
+https://moveit-next-rho-six.vercel.app/
 
 ![MoveIt Preview](./public/GitHub/MoveIt-preview.gif)
 
