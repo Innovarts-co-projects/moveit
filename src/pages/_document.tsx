@@ -19,6 +19,8 @@ export default class MyDocument extends Document {
                <link
                   href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Rajdhani:wght@600&display=swap"
                   rel="stylesheet" />
+               
+               <meta name="description" content="O MoveIt é um app de pomodoro que promove produtividade e saúde ao usuario ao implementar um sistema de desafios para o intervalo entre um ciclo de produtividade e outro fazendo com que o usuario possa relaxar durante os intervalos com atividades que o auxiliam."/>
             </Head>
             
             <body>
