@@ -11,7 +11,7 @@ import { Profile } from "../components/Profile";
 import React from "react";
 import Head from 'next/head';
 import styles from '../styles/pages/home.module.css';
-
+// 
 
 interface HomeProps {
 
