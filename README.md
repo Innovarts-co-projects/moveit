@@ -49,6 +49,8 @@ Após isso pode usar o ```yarn install``` para instalar as dependencias
 
 agora é so utilizar ```yarn dev``` para iniciar o servidor na sua maquina.
 
+pronto! você pode editar o projeto livremente!
+
 ### linguagens e ferramentas utilizadas
 
 <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'></img>
