@@ -43,6 +43,8 @@ Você pode utilizar o ```git clone``` no terminal **git bash** ou um terminal de
 
 EX: ```git clone https://github.com/StwGabriel/moveit-next.git```
 
+*após clonar entre na pasta do projeto
+
 Após isso pode usar o ```yarn add``` para instalar as dependencias
 
 agora é so utilizar ```yarn dev``` para iniciar o servidor na sua maquina.
