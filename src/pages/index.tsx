@@ -1,4 +1,8 @@
 
+import React from "react";
+import Head from 'next/head';
+import styles from '../styles/pages/home.module.css';
+
 import { ChallengeBox } from '../components/ChallengeBox';
 import {  ChallengesProvider } from "../contexts/ChallengesContext";
 import { CompletedChalenges } from "../components/CompletedChalenges";
@@ -7,11 +11,6 @@ import { Countdown } from "../components/Countdown";
 import { ExperienceBar } from "../components/ExperienceBar";
 import { GetServerSideProps } from "next";
 import { Profile } from "../components/Profile";
-
-import React from "react";
-import Head from 'next/head';
-import styles from '../styles/pages/home.module.css';
-// 
 
 interface HomeProps {
 
