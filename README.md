@@ -67,4 +67,4 @@ pronto! você pode editar o projeto livremente!
    [![shield](https://github.com/StwGabriel/Assets/blob/main/readme-shields/email-shield.svg)](mailto:gabrielstw@pm.me?Subject=Vim%20Pelo%20GitHub)
 
 
-[Link Free](https://cutt.ly/stwgabriel)
+[Link Tree](https://cutt.ly/stwgabriel)
