@@ -55,7 +55,7 @@ pronto! você pode editar o projeto livremente!
 
 ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/typescript-icon.svg)
 ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/react-icon.svg)
-![icon](https://github.com/StwGabriel/Assets/blob/main/icons/next-icon.svg)
+![icon](https://github.com/StwGabriel/Assets/blob/main/icons/nextjs-icon.svg)
 ![icon](https://github.com/StwGabriel/Assets/blob/main/icons/git-icon.svg)
 
 ### Social & Profissional
